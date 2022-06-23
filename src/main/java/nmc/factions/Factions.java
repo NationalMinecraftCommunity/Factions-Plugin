@@ -10,6 +10,17 @@ public final class Factions extends JavaPlugin {
 
     }
 
+    public void test() {
+        //do things here
+
+
+
+    }
+
+
+
+
+
     @Override
     public void onDisable() {
         // Plugin shutdown logic
